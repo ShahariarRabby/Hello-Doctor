@@ -14,7 +14,7 @@ django-appconf==1.0.2
 django-sass-processor==0.5.5
 django-storages==1.6.5
 Faker==0.8.5
-gunicorn==19.7.1
+gunicorn==19.8.1
 html5lib==0.999999999
 idna==2.6
 libsass==0.13.3
