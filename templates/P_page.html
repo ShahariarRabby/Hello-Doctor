@@ -1,40 +1,43 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    {% include "meta.html" %}
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-    <title>{{contents.name}}</title>
+    <title>{{ contents.name }}</title>
     <style>
-      .card {
+        .card {
 
-        margin: 0 auto; /* Added */
-        float: none; /* Added */
-        margin-bottom: 10px; /* Added */
-        margin-top: 100px;
-}
+            margin: 0 auto; /* Added */
+            float: none; /* Added */
+            margin-bottom: 10px; /* Added */
+            margin-top: 100px;
+        }
     </style>
-  </head>
-  <body>
-    <div class="container">
-   <div class="card" style="width: 28rem;">
-  <div class="card-body">
-    <h5 class="card-title">{{contents.name}}</h5>
-    <h5 class="card-title">{{contents.Email}}</h5>
+</head>
+<body>
+<div class="container">
+    <div class="card" style="width: 28rem;">
+        <div class="card-body">
+            <h5 class="card-title">{{ contents.name }}</h5>
+            <h5 class="card-title">{{ contents.Email }}</h5>
 
-    <p class="card-text"><p>Medicine: {{contents.content}}</p>
-   <p>Dose: {{contents.content1}}</p></p>
+            <p class="card-text">
+            <p>Medicine: {{ contents.content }}</p>
+            <p>Dose: {{ contents.content1 }}</p></p>
 
-    <a href="{% url 'urlname' %}?user_id={{contents.id}}" class="btn btn-primary">Patient ID: {{contents.id}}</a>
-  </div>
+            <a href="{% url 'urlname' %}?user_id={{ contents.id }}" class="btn btn-primary">Patient
+                ID: {{ contents.id }}</a>
+        </div>
+    </div>
 </div>
-</div>
 
-  {% include "footer.html" %}
+{% include "footer.html" %}
 
-         </body>
+</body>
 </html>
