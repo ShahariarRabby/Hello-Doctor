@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98bab948-d831-4dcc-b490-b0f66b4b9f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/form/static/og.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/form/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fevi.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/fevi.png" beforeDir="false" afterPath="$PROJECT_DIR$/form/static/fevi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/og.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/meta.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/templates/meta.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -32,8 +28,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+            <state relative-caret-position="207">
+              <caret line="120" column="51" lean-forward="true" selection-start-line="120" selection-start-column="51" selection-end-line="120" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -129,8 +125,8 @@
         <option value="$PROJECT_DIR$/templates/med2.html" />
         <option value="$PROJECT_DIR$/templates/P2_page.html" />
         <option value="$PROJECT_DIR$/templates/P_page.html" />
-        <option value="$PROJECT_DIR$/templates/meta.html" />
         <option value="$PROJECT_DIR$/form/settings.py" />
+        <option value="$PROJECT_DIR$/templates/meta.html" />
       </list>
     </option>
   </component>
@@ -438,14 +434,14 @@
     <entry file="file://$PROJECT_DIR$/templates/meta.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/form/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
+        <state relative-caret-position="207">
+          <caret line="120" column="51" lean-forward="true" selection-start-line="120" selection-start-column="51" selection-end-line="120" selection-end-column="51" />
         </state>
       </provider>
     </entry>
