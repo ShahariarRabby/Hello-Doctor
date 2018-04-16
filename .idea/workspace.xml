@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98bab948-d831-4dcc-b490-b0f66b4b9f48" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/meta.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/form/static/og.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/form/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fevi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fevi.png" beforeDir="false" afterPath="$PROJECT_DIR$/form/static/fevi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/og.PNG" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,26 +20,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="meta.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="meta.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/meta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/form/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="123" column="37" lean-forward="true" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
+            <state relative-caret-position="241">
+              <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="og.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/og.png">
+        <entry file="file://$PROJECT_DIR$/form/static/og.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -126,8 +129,8 @@
         <option value="$PROJECT_DIR$/templates/med2.html" />
         <option value="$PROJECT_DIR$/templates/P2_page.html" />
         <option value="$PROJECT_DIR$/templates/P_page.html" />
-        <option value="$PROJECT_DIR$/form/settings.py" />
         <option value="$PROJECT_DIR$/templates/meta.html" />
+        <option value="$PROJECT_DIR$/form/settings.py" />
       </list>
     </option>
   </component>
@@ -168,11 +171,6 @@
             <path>
               <item name="DjangoApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DjangoApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DjangoApp" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,6 +184,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shaha\PycharmProjects\DjangoApp\form" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -429,20 +432,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/og.png">
+    <entry file="file://$PROJECT_DIR$/form/static/og.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="123" column="37" lean-forward="true" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/meta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="122" column="20" lean-forward="true" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="20" />
         </state>
       </provider>
     </entry>
