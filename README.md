@@ -22,7 +22,7 @@ clicking on the generic name. This system will help the patient to choose the be
 * SQLite 3
 # Limitation
 Currently supporting only four (4) medicine
-![Medicene List](form/static/shot-20180616-3123-w6548a.jpeg "Logo Title Text 1")
+![Medicene List](form/static/READMELimiataion.jpeg "Logo Title Text 1")
 
 # EndNote
 After the  This application will give the new proposed system of prescription. This a smart way of the new prescription system.
