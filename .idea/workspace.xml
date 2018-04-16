@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98bab948-d831-4dcc-b490-b0f66b4b9f48" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/form/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home_page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/meta.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,18 +21,14 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="meta.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/meta.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="123" column="42" lean-forward="true" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
+            <state relative-caret-position="258">
+              <caret line="123" column="37" lean-forward="true" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -60,8 +59,8 @@
       <file leaf-file-name="home_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-end-line="6" />
+            <state relative-caret-position="288">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -120,12 +119,12 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/templates/footer.html" />
-        <option value="$PROJECT_DIR$/templates/home_page.html" />
         <option value="$PROJECT_DIR$/templates/med.html" />
         <option value="$PROJECT_DIR$/templates/med2.html" />
         <option value="$PROJECT_DIR$/templates/P2_page.html" />
         <option value="$PROJECT_DIR$/templates/P_page.html" />
         <option value="$PROJECT_DIR$/form/settings.py" />
+        <option value="$PROJECT_DIR$/templates/home_page.html" />
         <option value="$PROJECT_DIR$/templates/meta.html" />
       </list>
     </option>
@@ -393,13 +392,6 @@
         <state relative-caret-position="-102" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/med.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -411,13 +403,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/P2_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -433,17 +418,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/form/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="123" column="42" lean-forward="true" selection-start-line="123" selection-start-column="42" selection-end-line="123" selection-end-column="42" />
+        <state relative-caret-position="258">
+          <caret line="123" column="37" lean-forward="true" selection-start-line="123" selection-start-column="37" selection-end-line="123" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/P2_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/meta.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
