@@ -29,3 +29,6 @@ After the  This application will give the new proposed system of prescription. T
 
 # Licence
 **[MIT License](https://opensource.org/licenses/MIT)**
+Copyright (c) 2018-3018 Shahariar Rabby
+
+
