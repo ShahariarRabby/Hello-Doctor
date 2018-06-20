@@ -28,10 +28,7 @@ Currently supporting only four (4) medicine
 After the  This application will give the new proposed system of prescription. This a smart way of the new prescription system.
 
 # Special Thanks
-**Special Thanks to  Md Majedul Islam Rifat.**
-
-# Licence
-**[MIT License](https://opensource.org/licenses/MIT)**
+**Special Thanks to  Md Majedul Islam Rifat.*
 
 **Copyright (c)** 2018-3018 Shahariar Rabby
 
