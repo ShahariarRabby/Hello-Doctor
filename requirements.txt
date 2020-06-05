@@ -1,4 +1,4 @@
-Django==2.0.6
+Django==2.2.13
 pytz==2018.4
 argon2-cffi==16.3.0
 asn1crypto==0.22.0
