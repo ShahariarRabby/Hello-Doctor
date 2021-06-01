@@ -32,7 +32,7 @@ python-dateutil==2.6.1
 requests==2.18.4
 six==1.10.0
 Unidecode==0.4.21
-urllib3==1.22
+urllib3==1.26.5
 webencodings==0.5.1
 whitenoise==3.3.1
 win-inet-pton==1.0.1
